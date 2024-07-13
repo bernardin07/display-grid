@@ -94,3 +94,37 @@ font-family: "Cairo",sans-serif;}
 #titulo2{display: flex;
 justify-content: center;
 color: white;}
+#telefone{grid-row: 4;
+grid-column: 2/7;}
+#telefo{height: 40px;
+display: flex;
+justify-content:center;
+margin-left: 45px;
+color: #7fad39;}
+#phone{margin-top: 15px;
+    font-size: 30px;
+margin-left: 35px;
+line-height: 60px;}
+#local{grid-row: 4;
+    grid-column: 3/7;}
+#loca{height: 40px;
+        display: flex;
+        justify-content:center;
+        margin-left: 80px;}
+#relogio{grid-row: 4;
+    grid-column: 4/7;}
+#clock{height: 40px;
+    display: flex;
+    justify-content:center;
+    margin-left: 80px;}
+#info{margin-left: 13px;}
+#email{grid-row: 4;
+    grid-column: 5/7;}
+#gmail{height: 40px;
+        display: flex;
+        justify-content:center;
+        margin-left: 80px;}
+#mapa{grid-row: 5;
+grid-column:3/7;
+height:75%;
+width:100%;}
